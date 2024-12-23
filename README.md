@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Hasan Al-Kaf
 
-## 📈 GitHub Stats
+## ⚡ Git Stats ⚡
 
 <a href="https://github.com/hasanalkaf3">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanalkaf3&theme=tokyonight" align="center" alt="GitHub Streak" />
