@@ -3,7 +3,7 @@
 ## ⚡ Git Stats ⚡
 
 <a href="https://github.com/hasanalkaf3">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanalkaf3&theme=tokyonight" align="center" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanalkaf3&theme=algolia" align="center" alt="GitHub Streak" />
 </a>
 <a href="https://github.com/hasanalkaf3">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanalkaf3&theme=xcode&hide_border=true" align="center" alt="GitHub Activity Graph" />
