@@ -2,7 +2,7 @@
 
 ## ⚡ GitHub Stats ⚡
 
-<a href="https://github.com/hasanalkaf3" style="display: flex; justify-content: center;">
+<a href="https://github.com/hasanalkaf3">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanalkaf3&theme=algolia" alt="GitHub Streak" />
 </a>
 <a href="https://github.com/hasanalkaf3">
