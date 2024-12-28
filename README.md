@@ -34,5 +34,5 @@
 </a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055ff,100:a82da8&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:0055ff,0:a82da8&height=100&section=footer"/>
 </p>
