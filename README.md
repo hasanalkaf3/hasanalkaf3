@@ -1,7 +1,5 @@
 # 👋 Hi there, I’m Hasan Al-Kaf
 
----
-
 ## ⚡ GitHub Stats ⚡
 
 <a href="https://github.com/hasanalkaf3">
