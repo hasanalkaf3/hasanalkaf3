@@ -24,3 +24,5 @@
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on front-end tools
 - 📫 How to reach me: https://hasan.alkaf.net
+
+[![](https://visitcount.itsvg.in/api?id=hasanalkaf3&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
