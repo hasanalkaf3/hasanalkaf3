@@ -18,11 +18,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasanalkaf3&theme=algolia&utcOffset=3" alt="Productive Time" />
 </a>
 
+---
+
 ## 💬 About Me
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on front-end tools
 - 📫 How to reach me: https://hasan.alkaf.net
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=hasanalkaf3&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
