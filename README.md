@@ -1,5 +1,7 @@
 # 👋 Hi there, I’m Hasan Al-Kaf
 
+---
+
 ## ⚡ GitHub Stats ⚡
 
 <a href="https://github.com/hasanalkaf3">
@@ -29,4 +31,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=hasanalkaf3&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://github.com/hasanalkaf3">
+  <img src="https://visitcount.itsvg.in/api?id=hasanalkaf3&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
