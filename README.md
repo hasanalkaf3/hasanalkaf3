@@ -32,3 +32,7 @@
 <a href="https://github.com/hasanalkaf3">
   <img src="https://visitcount.itsvg.in/api?id=hasanalkaf3&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
