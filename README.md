@@ -33,9 +33,9 @@
 ---
 
 <a href="https://github.com/hasanalkaf3">
-  <img src="https://visitcount.itsvg.in/api?id=hasanalkaf3&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=hasanalkaf3&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter" />
 </a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:0055ff,0:a82da8&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:0055ff,0:a82da8&height=100&section=footer" alt="Colorful Wave" />
 </p>
