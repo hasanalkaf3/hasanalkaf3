@@ -5,9 +5,9 @@
 <a href="https://github.com/hasanalkaf3">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanalkaf3&theme=algolia" alt="GitHub Streak" />
 </a>
-<a href="https://github.com/hasanalkaf3">
+<!-- <a href="https://github.com/hasanalkaf3">
   <img src="https://streak-stats.demolab.com/?user=hasanalkaf3&theme=algolia" alt="GitHub Streak" />
-</a>
+</a> -->
 <a href="https://github.com/hasanalkaf3">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanalkaf3&theme=xcode&hide_border=true" alt="GitHub Activity Graph" />
 </a>
