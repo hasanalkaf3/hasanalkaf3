@@ -26,7 +26,7 @@
 ## 💬 About Me
 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently mastering Next.js
 - 👯 I’m looking to collaborate on front-end tools
 - 📫 How to reach me: https://hasan.alkaf.net
 
