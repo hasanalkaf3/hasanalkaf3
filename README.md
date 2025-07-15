@@ -2,6 +2,12 @@
 
 ## ⚡ GitHub Stats ⚡
 
+<p>
+  <a href="https://github.com/hasanalkaf3">
+    <img src="https://komarev.com/ghpvc/?username=hasanalkaf3&label=Profile%20views&color=blueviolet&style=flat" alt="Visit Counter" />
+  </a>
+</p>
+
 <a href="https://github.com/hasanalkaf3">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanalkaf3&theme=algolia" alt="GitHub Streak" />
 </a>
@@ -31,10 +37,6 @@
 - 📫 How to reach me: https://hasan.alkaf.net
 
 ---
-
-<a href="https://github.com/hasanalkaf3">
-  <img src="https://visitcount.itsvg.in/api?id=hasanalkaf3&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter" />
-</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=100:0055ff,0:a82da8&height=100&section=footer" alt="Colorful Wave" />
